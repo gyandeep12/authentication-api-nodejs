@@ -7,7 +7,7 @@
     "start": "nodemon entrypoint.js"
   },
   "keywords": [],
-  "author": "stark366",
+  "author": "ankita-sharma123",
   "license": "MIT",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
