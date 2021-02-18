@@ -1,1 +1,3 @@
-# Node JS JWT API
+# Node JS JWT Authentication
+
+## JWT Authentication System with Authorization
